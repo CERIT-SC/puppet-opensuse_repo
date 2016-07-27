@@ -1,4 +1,4 @@
-# This module is not maintained anymore. Please switch to https://forge.puppet.com/vholer/opensuse_repo or https://github.com/vholer/puppet-opensuse_repo
+# This module is not maintained anymore. Please switch to https://forge.puppet.com/vholer/obs_repo or https://github.com/vholer/puppet-obs_repo
 
 # Puppet OpenSUSE repositories module
 
